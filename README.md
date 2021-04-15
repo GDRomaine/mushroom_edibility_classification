@@ -1,3 +1,5 @@
+## mushroom_edibility_classification
+
 In this project, I use the k-nearest neighbors algorithm to classify samples of
 mushrooms as either edible or poisonous. The motivation behind the project is
 to showcase my ability to use machine learning techniques.
