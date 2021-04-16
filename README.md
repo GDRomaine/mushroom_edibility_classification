@@ -1,15 +1,15 @@
 ## mushroom_edibility_classification
 
 In this project, I use the k-nearest neighbors algorithm to classify samples of
-mushrooms as either edible or poisonous. The motivation behind the project is
+mushrooms as either edible or poisonous. The motivation behind this project is
 to showcase my ability to use machine learning techniques.
 
-The data set for training and testing was found on
+The dataset for training and testing was found on
 [UC Irvine's Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
-This data set includes descriptions of hypothetical samples corresponding to 23
-species of gilled mushrooms in the Agaricus and Lepiota Family. Each species is
+This dataset includes descriptions of hypothetical samples corresponding to 23
+species of gilled mushrooms in the Agaricus and Lepiota families. Each species is
 identified as definitely edible, definitely poisonous, or of unknown edibility
-and not recommended. The latter class was combined with the poisonous one. You
+and not recommended. This latter class was combined with the poisonous one. You
 can download the data set and access its documentation [here](https://archive.ics.uci.edu/ml/datasets/mushroom).
 
 Note: throughout the project, I write with plural subject pronouns as opposed
